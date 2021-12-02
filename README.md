@@ -20,7 +20,7 @@ Same as the quiz game that you know:
 - Answer the **6** yes/no questions.
 + Check if **the marvel hero you thought matches** the one the computer guessed.
 
-Choose your marvel character!
+**Choose your marvel character!**
 
 Built with [Python 3](https://www.python.org/doc "python documentation link")
 
