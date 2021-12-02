@@ -9,5 +9,3 @@ def total(value):
 
         print("It's " + vars.character)
         # add some emoji icons, or show the character image using the Pillow package
-
-    
