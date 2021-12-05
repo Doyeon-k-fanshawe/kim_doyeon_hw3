@@ -1,5 +1,5 @@
 from components.quizQuestions import questions
-from components import vars, quizTally
+from components import vars, quizTally, image
 
 answer1 = questions["q1"][input(questions["q1"]["question"])]
 print(answer1)
@@ -42,3 +42,4 @@ print("total so far: " + str(vars.quizTotal) + "\n")
 
 # after answer all the questions, figure out who your character is
 quizTally.total(vars.quizTotal)
+image.total(vars.quizTotal)
