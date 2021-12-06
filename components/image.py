@@ -6,26 +6,26 @@ from components import vars
 def total(value):
     # do some logic to see which character you selected
 
-    if value == 30:
+    if value == 200:
         
         spiderMan = Image.open("images/spider.jpg")
         spiderMan.show()
-        # add some emoji icons, or show the character image using the Pillow package
-    elif value == 20:
+        
+    elif value == 300:
 
         ironMan = Image.open("images/iron.jpg")
         ironMan.show()
-        # add some emoji icons, or show the character image using the Pillow package
-    elif value == 50:
+        
+    elif value == 500:
 
         natasha = Image.open("images/black_widow.jpg")
         natasha.show()
-        # add some emoji icons, or show the character image using the Pillow package
-    elif value == 40:
+        
+    elif value == 600:
 
         captain = Image.open("images/cap.jpg")
         captain.show()
-        # add some emoji icons, or show the character image using the Pillow package
+        
 
 
 
